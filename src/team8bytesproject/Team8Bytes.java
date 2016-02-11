@@ -7,15 +7,10 @@ package team8bytesproject;
 
 /**
  *
- * @author WS5
+ * @author Jandrew
  */
-public class Team8BytesProject {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODOadasdasd code appliasdfasdscation logic here
+public class Team8Bytes {
+    public static int add(int a,int b){
+        return a + b;
     }
-    
 }

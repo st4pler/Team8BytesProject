@@ -4,7 +4,6 @@ public class TestClassYeah
 {
     public static void main (String args[])
     {
-        System.out.print("Test println");
-        System.out.print("Test lang.. BLO");
+        System.out.print("YOU'VE BEEN HOCK!!");
     }
 }
