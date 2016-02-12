@@ -6,7 +6,7 @@
 
 /**
  *
- * @author st4pler
+ * @author culhanz
  */
 public class Team8BytesProject 
 {
@@ -15,6 +15,6 @@ public class Team8BytesProject
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.print("I AM YOUR FATHER!!!!!!");
+        System.out.print("I AM YOUR FATHER!!!!!!!");
     }
 }
