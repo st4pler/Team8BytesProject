@@ -7,10 +7,10 @@ package team8bytesproject;
 
 /**
  *
- * @author  PACALDO
+ * @author  lasque
  */
 public class Team8Bytes {
-    public static int add(int one,int two){
-        return one + two;
+    public static int add(int number1,int number2){
+        return number1 + number2;
     }
 }
