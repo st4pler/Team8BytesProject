@@ -4,6 +4,6 @@ public class TestClassYeah
 {
     public static void main (String args[])
     {
-        System.out.print("YOU'VE BEEN HOCK!!");
+        System.out.print("Hi sir RADO");
     }
 }
