@@ -7,7 +7,7 @@ package team8bytesproject;
 
 /**
  *
- * @author Jandrew
+ * @author BLO
  */
 public class Team8Bytes {
     public static int add(int one,int two){
