@@ -22,12 +22,12 @@ public class JUnitTest {
     @Test
         public void addingTwoNumbers()
         {
-            Team8Bytes.add(1,1);
+            Team8Bytes.add(3,2);
             
         }
     @Test
     public void addingTwoNumbersEqualsTwo(){
-        Assert.assertEquals(2, Team8Bytes.add(1,1));
+        Assert.assertEquals(5, Team8Bytes.add(1,1));
     }
     
     

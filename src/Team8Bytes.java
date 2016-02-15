@@ -10,8 +10,8 @@
  */
 public class Team8Bytes 
 {
-      public static int add(int a,int b)
+      public static int add(int x,int y)
       {
-        return a + b;
+        return x + y;
       }
 }
