@@ -6,7 +6,7 @@
 
 /**
  *
- * @author culhanz
+ * @author st4pler
  */
 public class Team8Bytes 
 {
