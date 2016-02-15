@@ -15,7 +15,7 @@ import team8bytesproject.Team8Bytes;
 
 /**
  *
- * @author BLO
+ * @author SARAH BLO
  */
 public class JUnitTest {
     
